@@ -6,3 +6,5 @@
 [params.article]
 layoutBackground = true
 width = "wide"
+showTableOfContents = true
+showAuthor = false
