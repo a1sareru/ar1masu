@@ -1,0 +1,15 @@
+baseURL = "https://a1sareru.github.io/ar1masu/"
+languageCode = 'ja'
+title = 'ar1masu'
+theme = 'blowfish'
+
+
+[params.author]
+name = "a1s"
+image = "img/shells.png"
+headline = "何か渡そうとしてるの？"
+bio = "愛には愛で答えましょう♪"
+# links = [
+#   { twitter = "https://twitter.com/username" }
+# ]
+

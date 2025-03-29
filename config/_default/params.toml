@@ -1,0 +1,5 @@
+colorScheme = "blowfish"
+
+homepage.showRecent = true
+
+enableSearch = true

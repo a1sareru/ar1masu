@@ -1,0 +1,8 @@
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.article]
+layoutBackground = true
+width = "wide"
