@@ -1,5 +1,5 @@
 # config/_default/taxonomies.toml
 
 categories = "categories"
-source = "sources"
-tag = "tags"
+sources = "sources"
+tags = "tags"

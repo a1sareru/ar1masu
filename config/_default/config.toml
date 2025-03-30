@@ -1,3 +1,5 @@
+hasCJKLanguage = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -8,3 +10,4 @@ layoutBackground = true
 width = "wide"
 showTableOfContents = true
 showAuthor = false
+showTaxonomies = true

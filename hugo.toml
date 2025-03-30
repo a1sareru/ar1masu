@@ -3,7 +3,6 @@ languageCode = 'ja'
 title = 'ar1masu'
 theme = 'blowfish'
 
-
 [params.author]
 name = "a1s"
 image = "img/shells.png"

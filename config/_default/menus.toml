@@ -1,27 +1,27 @@
 # config/_default/menus.toml
 
 [[main]]
-  name = "Posts"
+  name = "投稿一覧"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Categories"
+  name = "カテゴリー"
   pageRef = "categories"
   weight = 20
 
 [[main]]
-  name = "Sources"
+  name = "出典"
   pageRef = "sources"
   weight = 30
 
 [[main]]
-  name = "Tags"
+  name = "タグ"
   pageRef = "tags"
   weight = 40
 
 [[main]]
-  name = "About"
+  name = "当サイトについて"
   pageRef = "about"
   weight = 90
 
