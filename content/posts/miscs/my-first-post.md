@@ -5,6 +5,13 @@ draft: false
 description: ""
 ---
 
+## Taxonomy
+
+* categories = {"bundle", "unit", "digest", ...}
+* sources = 语料/主题的来源
+* tags = {"単語", "文法", ...}
+
+
 ## Cheat Sheet 
 
 使用 UTC 时区新建文章：
