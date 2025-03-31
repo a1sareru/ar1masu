@@ -1,6 +1,6 @@
 ---
 title: "單詞聚合筆記·6"
-date: 2025-03-30T21:47:50+08:00
+date: 2025-03-30T13:47:50Z
 draft: false
 description: ""
 categories: ["bundle"]
@@ -75,7 +75,7 @@ showSummary: true
 - 「預ける」是託付物品或人的一方，語感上為「暫時交給他人處理」。
 - 二者常成對出現，須根據行為的主體（交出方 or 接收方）選擇使用。
 
-## 「埋める（うめる）」「埋める（うずめる）」
+## 「<ruby>埋<rt>う</rt></ruby>める」「<ruby>埋<rt>うず</rt></ruby>める」
 
 (ChatGPT生成)
 

@@ -1,6 +1,6 @@
 ---
 title: "單詞聚合筆記·2"
-date: 2025-03-30T20:46:38+08:00
+date: 2025-03-30T12:46:38Z
 draft: false
 description: ""
 categories: ["bundle"]
@@ -148,7 +148,7 @@ showSummary: true
 - 「夕方」是最一般的表達，語感中性，日常使用頻率最高。
 - 四者皆可涉及「傍晚」，但時間範圍與語感層次各異。
 
-## 「市場（いちば）」「市場（しじょう）」
+## 「<ruby>市場<rt>いちば</rt></ruby>」「<ruby>市場<rt>しじょう</rt></ruby>」
 
 (ChatGPT生成)
 

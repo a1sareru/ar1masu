@@ -1,6 +1,6 @@
 ---
 title: "單詞聚合筆記·5"
-date: 2025-03-30T21:28:04+08:00
+date: 2025-03-30T13:28:04Z
 draft: false
 description: ""
 categories: ["bundle"]
@@ -198,7 +198,7 @@ showSummary: true
 - 「今度」語意彈性，可指正在進行的「這次」，也可指「下次」或未來某個時間。
 - 理解時需根據語境判斷「今度」的時間指向。
 
-## 「注ぐ（つぐ）」「注ぐ（そそぐ）」
+## 「<ruby>注<rt>つ</rt></ruby>ぐ」「<ruby>注<rt>そそ</rt></ruby>ぐ」
 
 (ChatGPT生成)
 

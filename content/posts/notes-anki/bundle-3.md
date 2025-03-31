@@ -1,6 +1,6 @@
 ---
 title: "單詞聚合筆記·3"
-date: 2025-03-30T20:56:18+08:00
+date: 2025-03-30T12:56:18Z
 draft: false
 description: ""
 categories: ["bundle"]
@@ -318,7 +318,7 @@ showSummary: true
 - 「思わず」修飾動詞，強調動作是在無意識或瞬間情感下發出的。
 - 二者皆含有「與預期不同」的語感，但一為形容詞描述情況，一為副詞描述行為反應。
 
-## 「鈍い（のろい）」「鈍い（にぶい）」→「鋭い」
+## 「<ruby>鈍<rt>のろ</rt></ruby>い」「<ruby>鈍<rt>にぶ</rt></ruby>い」→「<ruby>鋭<rt>するど</rt></ruby>い」
 
 (ChatGPT生成)
 
