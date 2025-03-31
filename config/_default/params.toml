@@ -3,5 +3,5 @@ enableSearch = true
 
 [homepage]
   showRecent = true
-  showRecentItems = 18
+  showRecentItems = 6
   cardView = true
