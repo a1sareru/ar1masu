@@ -1,6 +1,7 @@
 colorScheme = "blowfish"
-
-homepage.showRecent = true
-homepage.cardView = true
-
 enableSearch = true
+
+[homepage]
+  showRecent = true
+  showRecentItems = 18
+  cardView = true
