@@ -1,0 +1,3 @@
+:where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    font-style: normal;
+  }
