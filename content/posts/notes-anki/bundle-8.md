@@ -1,5 +1,5 @@
 ---
-title: "[WIP 9/10]單詞聚合筆記·8"
+title: "單詞聚合筆記·8"
 date: 2025-03-31T10:33:20Z
 draft: false
 description: ""
@@ -9,6 +9,8 @@ tags: ["単語", "ChatGPT 生成"]
 summary: "近義/反義聯想，或者单纯长得像"
 showSummary: true
 ---
+
+> [WIP 9/10]
 
 ## 「初め」「納め」
 
