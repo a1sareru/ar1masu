@@ -1,5 +1,6 @@
 colorScheme = "blowfish"
 
 homepage.showRecent = true
+homepage.cardView = true
 
 enableSearch = true
