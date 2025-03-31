@@ -3,7 +3,7 @@ title: "気の慣用句"
 date: 2025-03-31T11:28:14Z
 draft: false
 description: ""
-categories: ['digest']
+categories: ['unit']
 sources: []
 tags: ["文法"]
 summary: "以「気」為中心的日語慣用表現，依據語義與動詞搭配分為四類：「気が〜」（內在心理變化）、「気を〜」（主動行為調整）、「気に〜」（情緒反應）及「気の〜」（固定用語）。"
