@@ -1,5 +1,8 @@
 colorScheme = "blowfish"
 enableSearch = true
+enableCodeCopy = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [homepage]
   showRecent = true
