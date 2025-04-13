@@ -1,6 +1,6 @@
 ---
-title: "Notes｜【かわいいは演技だけ？】シノ"
-date: 2025-04-13T08:00:00Z
+title: "Notes｜【あなたに甘いぬくもりを】ネロ"
+date: 2025-04-13T10:00:00Z
 draft: false
 description: ""
 categories: ["digest"]
