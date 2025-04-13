@@ -6,7 +6,7 @@ description: ""
 categories: ["bundle"]
 sources: ["eggrolls"]
 tags: ["単語", "ChatGPT 生成"]
-summary: "近義/反義聯想，或者单纯长得像"
+summary: "「聞く」「尋ねる」「訪ねる」；「おかず」「つまみ」「摘まみ」；「受け持つ」「担当」；「接近」「近接」；「眉毛」「睫毛」；「負んぶ」「運ぶ」；「結ぶ」→「解く」；「躊躇う」「躊躇」；「加える」「増える」→「減る」；「得る」「得手」「得意」→「苦手」"
 showSummary: true
 ---
 

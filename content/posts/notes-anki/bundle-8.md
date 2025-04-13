@@ -6,7 +6,7 @@ description: ""
 categories: ["bundle"]
 sources: ["eggrolls"]
 tags: ["単語", "ChatGPT 生成"]
-summary: "近義/反義聯想，或者单纯长得像"
+summary: "「取り込む」「取り入れる」；「こつこつ」「地道に」；「見込み」「見通し」；「ぎっしり」「びっしり」；「干す」「乾く」；「好む」「好かれる」；「煮る」「炊く」「茹でる」「蒸す」；「割れる」「裂ける」「破れる」；「支出」「出費」；「締め切る」「区切る」"
 showSummary: true
 ---
 

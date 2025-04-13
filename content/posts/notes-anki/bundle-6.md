@@ -6,7 +6,7 @@ description: ""
 categories: ["bundle"]
 sources: ["eggrolls"]
 tags: ["単語", "ChatGPT 生成"]
-summary: "近義/反義聯想，或者单纯长得像"
+summary: "「住む」「住まい」；「預かる」「預ける」；「埋める（うめる）」「埋める（うずめる）」；「汚す」「汚い」；「よす」「止める」；「下す」→「従う」；「思う」「思える」；「退く」→「進む」；「入れ物」「容器」；「招待」「招く」"
 showSummary: true
 ---
 

@@ -6,7 +6,7 @@ description: ""
 categories: ["bundle"]
 sources: ["eggrolls"]
 tags: ["単語", "ChatGPT 生成"]
-summary: "近義/反義聯想，或者单纯长得像"
+summary: "「移す」「写す」「映す」「ずらす」；「奢る」「ご馳走」；「印鑑」「判子」；「遅れる」「退く」→「進む」；「この間」→「今度」；「注ぐ（つぐ／そそぐ）」；「麻痺」「痺れる」；「済む」「済ます」「済ませる」；「紙幣」「硬貨」；「保つ」「持つ」"
 showSummary: true
 ---
 
