@@ -1,5 +1,6 @@
 .DS_Store
 tmp*
+*.txt
 
 # Generated files by hugo
 /public/
