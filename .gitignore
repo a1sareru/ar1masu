@@ -1,6 +1,7 @@
 .DS_Store
 tmp*
 *.txt
+!robots.txt
 
 # Generated files by hugo
 /public/
